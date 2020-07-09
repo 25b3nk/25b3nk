@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am Bhaskar, an algorithms engineer from India :india:.
+- My favorite pastime are sports like basketball :basketball:, parkour :running_man:, american football :football:, etc.
