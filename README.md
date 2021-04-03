@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - I am Bhaskar, an algorithms engineer from India :india:.
-- My favorite pastime are sports like basketball :basketball:, parkour :running_man:, american football :football:, etc.
+- My favorite pastime are sports like basketball :basketball:, parkour :running_man:, flag football :football:, etc.
