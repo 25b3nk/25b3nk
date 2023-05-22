@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am Bhaskar, an algorithms engineer from India :india:.
+- I am Bhaskar, a Senior Software Engineer from India :india:.
 - My favorite pastime are sports like basketball :basketball:, parkour :running_man:, flag football :football:, etc.
