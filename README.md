@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - I am Bhaskar, a Senior Software Engineer from India :india:.
-- My hobbies are parkour 🏃‍♂️, gym 🏋️, Arduino 💻 etc.
+- My hobbies are parkour 🏃‍♂️, gym 🏋️, coding 💻 etc.
+- Currently learning rustlang ☸️
